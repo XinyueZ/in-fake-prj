@@ -1,0 +1,3 @@
+[submodule "submodules/module-fake"]
+	path = submodules/module-fake
+	url = git@github.com:XinyueZ/module-fake.git
